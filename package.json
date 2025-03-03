@@ -1,0 +1,19 @@
+{
+  "name": "project_deploy",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000c\u0000o\u0000m\u0000m\u0000e\u0000r\u0000c\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Safayatcc20/ecommerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Safayatcc20/ecommerce/issues"
+  },
+  "homepage": "https://github.com/Safayatcc20/ecommerce#readme"
+}
